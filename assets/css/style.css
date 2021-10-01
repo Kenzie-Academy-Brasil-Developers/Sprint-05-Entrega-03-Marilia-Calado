@@ -1,0 +1,31 @@
+body {
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    align-items: center;
+}
+
+img {
+    max-width: 800px;
+}
+
+#inhaler {
+    width: 170px;
+    height: 169px;
+    position: absolute;
+    background: transparent;
+    left: 200px;
+    top: 200px;
+}
+
+#my-header {
+    background-color: red;
+    height: 120px;
+    width: 100%;
+}
+
+#my-section {
+    display: flex;
+    align-items: center; 
+}
+
